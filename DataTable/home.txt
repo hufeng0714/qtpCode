@@ -1,0 +1,117 @@
+Home_Element
+Count = 240
+ElementeName = viewport
+ElementeName = format-detection
+ElementeName = 站长统计
+http://www.cnzz.com/stat/website.php?web_id=1254511571
+ElementeName = 比价购车
+http://m.haomaiche.com/#/
+ElementeName = 个人中心
+http://m.haomaiche.com/#/user_center
+ElementeName = Image
+http://event.haomaiche.com/buick_promotion/h5/
+ElementeName = Image
+http://event.haomaiche.com/w5_return/h5/
+ElementeName = Image
+http://event.haomaiche.com/new_energy_car_615/
+ElementeName = Image
+http://event.haomaiche.com/upgrade
+ElementeName = Image
+http://event.haomaiche.com/buick_promotion/h5/
+ElementeName = Image
+http://event.haomaiche.com/w5_return/h5/
+ElementeName = Image
+http://event.haomaiche.com/new_energy_car_615/
+ElementeName = Image
+http://event.haomaiche.com/upgrade
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/8a9143f2c8f145e2818aa00dd98b7d85
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/c74216cf2f4441c1b870b060c6ae97c1
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/6f52db5b494a47728af8d244da92d4a6
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/3b66588d4bdd4860869a9d424e3a0223
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/eb6748d5bf0b46a0aa924271d4f14e85
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/8cd87f71b1fd48a2b4fe85e509f612fe
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/04af02a3c0cf4e91a23d9097d88c3f29
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/43855c5c790d47be9c2a88d46d7ca0fb
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/dbd6e28ebac44511b25d5b8fbca48a86
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/43e7f40e735b441b8ab9f44907633b8e
+ElementeName = Image
+http://m.haomaiche.com/#/car_series/4d7ac871b3b54f7a8f3b44d700f8b7f1
+ElementeName = 更多
+http://m.haomaiche.com/#/brand_list
+ElementeName = 上汽大众 途观19.98万7636人比价购车
+http://m.haomaiche.com/#/car_model/0bd2d3c8e28c4476acc37ebaf5e4c810
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/0bd2d3c8e28c4476acc37ebaf5e4c810
+ElementeName = 一汽-大众奥迪 奥迪A4L27.28万5279人比价购车
+http://m.haomaiche.com/#/car_model/af3f1618333f44ef86a6531a100eef79
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/af3f1618333f44ef86a6531a100eef79
+ElementeName = 上汽通用别克 英朗10.99万5132人比价购车
+http://m.haomaiche.com/#/car_model/301719b9c8744d7990b6ffa9a897a76f
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/301719b9c8744d7990b6ffa9a897a76f
+ElementeName = 华晨宝马 3系28.3万4770人比价购车
+http://m.haomaiche.com/#/car_model/74d9c960909c49d88618410501f57e0a
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/74d9c960909c49d88618410501f57e0a
+ElementeName = 一汽-大众奥迪 奥迪Q538.34万4720人比价购车
+http://m.haomaiche.com/#/car_model/fa184d89ca8d46e8ab0748c5b363499a
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/fa184d89ca8d46e8ab0748c5b363499a
+ElementeName = 一汽大众 速腾13.18万4256人比价购车
+http://m.haomaiche.com/#/car_model/ec62d1440997426987eb02ae758e92c0
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/ec62d1440997426987eb02ae758e92c0
+ElementeName = 上汽通用雪佛兰 科鲁兹8.99万3977人比价购车
+http://m.haomaiche.com/#/car_model/196e571dfbf540369a94a41416bae09a
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/196e571dfbf540369a94a41416bae09a
+ElementeName = 上汽大众 朗逸10.99万3591人比价购车
+http://m.haomaiche.com/#/car_model/8a73b993d33c416a8feb0a18e0ad636f
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/8a73b993d33c416a8feb0a18e0ad636f
+ElementeName = 上汽大众 帕萨特18.39万3513人比价购车
+http://m.haomaiche.com/#/car_model/9e5e412bf0044181863bb25109e82805
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/9e5e412bf0044181863bb25109e82805
+ElementeName = 上汽通用别克 昂科威21.99万3480人比价购车
+http://m.haomaiche.com/#/car_model/512c95bd18504a148ce64125ddb6eeb7
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/512c95bd18504a148ce64125ddb6eeb7
+ElementeName = 一汽大众 高尔夫12.19万3419人比价购车
+http://m.haomaiche.com/#/car_model/1d853191a5c349779b54f51c6b2eea94
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/1d853191a5c349779b54f51c6b2eea94
+ElementeName = 一汽-大众奥迪 奥迪Q323.42万3309人比价购车
+http://m.haomaiche.com/#/car_model/bb2727ec64d5489d940e1f0c81f710f1
+ElementeName = Image
+http://m.haomaiche.com/#/car_model/bb2727ec64d5489d940e1f0c81f710f1
+ElementeName = 更多车型
+http://m.haomaiche.com/#/brand_list
+http://m.haomaiche.com/#/
+ElementeName = 比价
+http://m.haomaiche.com/#/brand_list
+ElementeName = 直销
+http://m.haomaiche.com/#/direct_sale_list
+ElementeName = 我的
+http://m.haomaiche.com/#/user_center
+ElementeName = 1468204111402
+hrefValue = http://m.haomaiche.com/#/brand_list

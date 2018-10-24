@@ -1,0 +1,1 @@
+﻿SystemUtil.Run "C:\Users\Victor\Desktop\deletefolder.vbs"

@@ -1,0 +1,15 @@
+﻿RunAction "00-MainAction", oneIteration
+RunAction "01-HomeAction", oneIteration
+RunAction "02-CarBrand-Jeep", oneIteration
+RunAction "03-Trad-Step1", oneIteration
+RunAction "04-CarModel-Jeep", oneIteration
+RunAction "05-CarColor-Jeep", oneIteration
+RunAction "06-License-HuA", oneIteration
+RunAction "07-PayModel-AllPay", oneIteration
+RunAction "08-PurchaseTime-m3Month", oneIteration
+RunAction "09-Area", oneIteration
+RunAction "10-Trad-Step9", oneIteration
+RunAction "11-RegisterLogin", oneIteration
+RunAction "12-AdminLogin", oneIteration
+RunAction "13-VerifyCode", oneIteration
+RunAction "14-OderList", oneIteration
